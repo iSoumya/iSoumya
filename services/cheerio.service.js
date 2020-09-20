@@ -19,7 +19,7 @@ class CheerioService {
                          const src = $(this).attr('src');
                          arr.push(src)
                      });
-                  return resolve(arr.slice(0, 3));
+                  return resolve(arr.slice(0, n));
                }
            });
       });
