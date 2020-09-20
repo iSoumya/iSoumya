@@ -23,6 +23,7 @@
     "dotenv": "^8.2.0",
     "mustache": "^4.0.1",
     "node-fetch": "^2.6.0",
-    "puppeteer": "^5.1.0"
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2 "
   }
 }

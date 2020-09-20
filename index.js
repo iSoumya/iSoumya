@@ -2,7 +2,8 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
-const puppeteerService = require('./services/puppeteer');
+//const puppeteerService = require('./services/puppeteer');
+const cheerioService = require('./services/cheerio.service');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -19,7 +20,7 @@ let DATA = {
 };
 
 async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLastThreePostsFromInstagramById('isoumyamahata', 3);
+  const instagramImages = await cheerioService.getLastThreePostsFromInstagramById('isoumyamahata', 3);
   DATA.img1 = instagramImages[0];
   DATA.img2 = instagramImages[1];
   DATA.img3 = instagramImages[2];
@@ -47,7 +48,7 @@ async function action() {
   /**
    * Close puppeteerService
    */
-  await puppeteerService.close();
+ // await puppeteerService.close();
 }
 
 action();
