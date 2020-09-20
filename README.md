@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1471045840/795/cool.gif?1471045840" width="30"/> Hey there, hoping everything is fine at your world.</h1>
 
 
-<p>Welcome to my GitHub Profile! </br> I'm Soumya Mahata, Fullstack developer from <b>Bangalore, India </b></p>
+<p style="font-size: 2em;">Welcome to my GitHub Profile! </br> I'm Soumya Mahata, Fullstack developer from <b>Bangalore, India </b></p>
 <p>
 <a href="https://twitter.com/mSOUMYA_MAHATA">
   <img align="left" alt="Soumya Mahata | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -12,6 +12,7 @@
 <a href="https://www.instagram.com/isoumyamahata/">
   <img align="left" alt="Soumya Mahata | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=isoumya)
 <br />
 </p>
@@ -29,8 +30,8 @@
 </p>
 
 <h3>My last three posts in Instagram <a href="https://www.instagram.com/isoumyamahata/" target="_blank"></h3>
-<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;107960072_883711342106009_1156084847209531600_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;8q7-TMJRtDoAX_2uxgN&amp;_nc_tp&#x3D;18&amp;oh&#x3D;730fa3b39d63ea729172ea79769d2af4&amp;oe&#x3D;5F6A3BC5" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;103397650_1385771614943097_753337209419028048_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;t4oAFgA9aLoAX_w_-Wy&amp;oh&#x3D;5dbe9ef0a76cc6bcb99d7c08f7fca7c1&amp;oe&#x3D;5F90165D" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;102919621_1160279907638144_6477784032832376206_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;6J8t-Vm2HScAX-g3UJM&amp;oh&#x3D;0a926779627cc8dcc599ba2586708fea&amp;oe&#x3D;5F929C75" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;107960072_883711342106009_1156084847209531600_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;105&amp;_nc_ohc&#x3D;8q7-TMJRtDoAX9ggKCF&amp;_nc_tp&#x3D;18&amp;oh&#x3D;3b1bad6b8abc55fca2c7c7812f2169db&amp;oe&#x3D;5F6A3BC5" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;103397650_1385771614943097_753337209419028048_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;t4oAFgA9aLoAX8VXCya&amp;oh&#x3D;b4f581204b56ef636e1ae9c617945972&amp;oe&#x3D;5F90165D" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;102919621_1160279907638144_6477784032832376206_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;6J8t-Vm2HScAX_LF93i&amp;oh&#x3D;80b5fa6c7bf5fd3b3ccbced6689ac6f6&amp;oe&#x3D;5F929C75" /></p>
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Monday, 21 September, 12:18 am IST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last updated: Monday, 21 September, 12:33 am IST<br /></p>
